@@ -58,5 +58,8 @@ public class ItemPedidoPK implements Serializable {
 		} else if (!produto.equals(other.produto))
 			return false;
 		return true;
-	}	
+	}
+	
+	
+	
 }
